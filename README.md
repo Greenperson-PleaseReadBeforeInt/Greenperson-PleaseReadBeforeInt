@@ -41,7 +41,7 @@
   
 🍃 ⋆｡°✩ 🌱 ─── 🌿 ─── 🪴 ─── ☘️ ─── 🍀 ─── 🌳 ─── 🌲 ─── 🌾 ─── 🍃 ✩°｡⋆ 🌱</p>
 
-### ɢᴀʟʟᴇʀʏ 📸
+### Lᴜᴄᴋʏ ʟᴏᴏᴇʏ ғᴏʀ ʏᴏᴜ 📸
 
 <p align="center">
 <img src="https://cdn.phototourl.com/free/2026-07-14-7e615dd9-892b-4dcd-8835-30e20bed0d1c.png" width="500">
