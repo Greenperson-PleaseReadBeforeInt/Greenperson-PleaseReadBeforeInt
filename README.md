@@ -16,8 +16,7 @@
 ᴄʟɪᴄᴋ ᴍʏ ᴄᴀʀʀᴅ ᴅᴏᴡɴ ʙᴇʟᴏᴡ! 🍀
 
 <p align="center">
-🍃 ─── 🌿 ─── 🍀 ─── 🌱 ─── 🌿 ─── 🍃
-</p>
+🌿 ⋆｡°✩ 🍃 ─── 🌱 ─── ☘️ ─── 🍀 ─── 🪴 ─── 🌲 ─── 🌳 ─── 🌵 ─── 🌾 ─── 🍃 ✩°｡⋆ 🌿</p>
 
 ### ʟɪɴᴋꜱ 🔗
 
@@ -28,11 +27,11 @@
 </a>
 
 <a href="https://instagram.com/yourusername">
-<img src="https://img.shields.io/badge/📷_Instagram-9DC724?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/📚_atabook-9DC724?style=for-the-badge&logoColor=white">
 </a>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/🎨_Portfolio-9DC724?style=for-the-badge&logoColor=white">
+<a href="https://yourportfolio.com](https://che3secak3factory.straw.page">
+<img src="https://img.shields.io/badge/🎨_Gallery-9DC724?style=for-the-badge&logoColor=white">
 </a>
 
 <a href="https://discord.com/users/YOUR_ID">
@@ -40,8 +39,7 @@
 </a>
 
 <p align="center">
-🍃 ─── 🌿 ─── 🍀 ─── 🌱 ─── 🌿 ─── 🍃
-</p>
+🍃 ⋆｡°✩ 🌱 ─── 🌿 ─── 🪴 ─── ☘️ ─── 🍀 ─── 🌳 ─── 🌲 ─── 🌾 ─── 🍃 ✩°｡⋆ 🌱</p>
 
 ### ɢᴀʟʟᴇʀʏ 📸
 
