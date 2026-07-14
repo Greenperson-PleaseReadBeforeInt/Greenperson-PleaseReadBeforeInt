@@ -21,24 +21,23 @@
 ### ʟɪɴᴋꜱ 🔗
 
 <p align="center">
+  <a href="https://yourname.carrd.co">
+    <img src="https://img.shields.io/badge/🌐_Carrd-9DC724?style=for-the-badge&logoColor=white" height="80">
+  </a>
 
-<a href="https://yourname.carrd.co">
-<img src="https://img.shields.io/badge/🌐_Carrd-9DC724?style=for-the-badge&logoColor=white">
-</a>
+  <a href="https://cheesecakefactory.atabook.org/">
+    <img src="https://img.shields.io/badge/📚_atabook-9DC724?style=for-the-badge&logoColor=white" height="80">
+  </a>
 
-<a href="https://instagram.com/yourusername">
-<img src="https://img.shields.io/badge/📚_atabook-9DC724?style=for-the-badge&logoColor=white">
-</a>
+  <a href="https://che3secak3factory.straw.page/">
+    <img src="https://img.shields.io/badge/🎨_Gallery-9DC724?style=for-the-badge&logoColor=white" height="80">
+  </a>
 
-<a href="https://che3secak3factory.straw.page/">
-<img src="https://img.shields.io/badge/🎨_Gallery-9DC724?style=for-the-badge&logoColor=white">
-</a>
-
-<a href="https://discord.com/users/YOUR_ID">
-<img src="https://img.shields.io/badge/💬_Discord-9DC724?style=for-the-badge&logoColor=white">
-</a>
-
+  <a href="https://discord.com/users/YOUR_ID">
+    <img src="https://img.shields.io/badge/💬_Discord-9DC724?style=for-the-badge&logoColor=white" height="80">
+  </a>
 <p align="center">
+  
 🍃 ⋆｡°✩ 🌱 ─── 🌿 ─── 🪴 ─── ☘️ ─── 🍀 ─── 🌳 ─── 🌲 ─── 🌾 ─── 🍃 ✩°｡⋆ 🌱</p>
 
 ### ɢᴀʟʟᴇʀʏ 📸
