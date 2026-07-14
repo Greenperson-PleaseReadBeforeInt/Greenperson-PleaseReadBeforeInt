@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/📚_atabook-9DC724?style=for-the-badge&logoColor=white">
 </a>
 
-<a href="https://yourportfolio.com](https://che3secak3factory.straw.page">
+<a href="https://che3secak3factory.straw.page/">
 <img src="https://img.shields.io/badge/🎨_Gallery-9DC724?style=for-the-badge&logoColor=white">
 </a>
 
